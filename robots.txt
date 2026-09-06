@@ -1,0 +1,6 @@
+# robots.txt · DeivAI
+
+User-agent: *
+Allow: /
+
+Sitemap: https://deivai.es/sitemap.xml
